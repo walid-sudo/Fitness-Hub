@@ -1,7 +1,7 @@
 .workout-image {
-    width: 600px; /* Set your desired width */
-    height: 400px; /* Set your desired height */
-    object-fit: cover; /* Ensures the image covers the specified dimensions */
+    width: 600px;
+    height: 400px;
+    object-fit: cover;
 }
 .navbar-brand{
     text-decoration: line-through;
