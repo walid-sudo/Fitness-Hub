@@ -1,0 +1,16 @@
+.workout-image {
+    width: 600px; /* Set your desired width */
+    height: 400px; /* Set your desired height */
+    object-fit: cover; /* Ensures the image covers the specified dimensions */
+}
+.navbar-brand{
+    text-decoration: line-through;
+}
+
+.container{
+    margin-top: 0%;
+}
+
+.card{
+    margin-top: 10px;
+}
